@@ -1,0 +1,15 @@
+body {
+  background: black;
+}
+
+.main {
+  background-image: url("images/living_room.jpg");
+  background-size: 1600px 1600px;
+  background-repeat: no-repeat;
+  width: 1600px;
+  height: 1600px;
+}
+
+.images{
+  margin: 20px;
+}
