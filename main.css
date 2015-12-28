@@ -1,5 +1,18 @@
+html {
+  margin: 0px;
+}
+
 body {
   background: black;
+  margin: 0px;
+}
+
+h1 {
+  color: white;
+}
+
+header {
+  background-color: grey;
 }
 
 .main {
